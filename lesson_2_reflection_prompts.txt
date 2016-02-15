@@ -35,3 +35,11 @@ Now that you have your workspace set up, what do you want to try using Git for?
 	How is the staging area different from the working directory and the repository? What value do you think it offers?
 	
 	,khfglgi
+	
+	How can you use the staging area to make sure you have one commit per logical change?
+	
+	Ja
+	
+	How do the diagrams help you visualize the branch structure?
+	
+	Uhum.
